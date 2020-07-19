@@ -9,11 +9,9 @@ type: page
 * content
 {:toc}
 
-## Aboutme
+## Me
 
 Hi, Welcome to My Blog. I am Software Engineer (Backend) from Jakarta, Indonesia.
-
-<iframe src="https://githubbadge.appspot.com/mauwahid" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ## Contact Me
 
